@@ -6,7 +6,7 @@ This page is a practical, no-fluff look at Kinsta managed WordPress hosting—co
 
 ---
 
-## TL;DR
+## Kinsta Review Summary
 
 - Best for: businesses, agencies, high-traffic sites  
 - Strengths: speed, uptime, security, support  
